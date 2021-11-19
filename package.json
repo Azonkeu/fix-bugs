@@ -1,0 +1,34 @@
+{
+  "name": "personal-portfolio",
+  "version": "1.0.0",
+  "description": "Set up a mobile version of a  Portfolio website.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Azonkeu/personal-portfolio.git"
+  },
+  "keywords": [
+    "portfolio"
+  ],
+  "author": "Azonkeu Ornela",
+  "license": "MIT",
+  "browserslist": "last 4 versions",
+  "bugs": {
+    "url": "https://github.com/Azonkeu/personal-portfolio/issues"
+  },
+  "homepage": "https://github.com/Azonkeu/personal-portfolio#readme",
+  "devDependencies": {
+    "babel-eslint": "^10.1.0",
+    "eslint": "^7.32.0",
+    "eslint-config-airbnb-base": "^14.2.1",
+    "eslint-plugin-import": "^2.25.3",
+    "hint": "^6.1.6",
+    "stylelint": "^13.13.1",
+    "stylelint-config-standard": "^21.0.0",
+    "stylelint-csstree-validator": "^1.9.0",
+    "stylelint-scss": "^3.21.0"
+  }
+}
